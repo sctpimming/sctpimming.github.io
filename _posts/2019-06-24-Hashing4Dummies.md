@@ -3,7 +3,7 @@ layout: post
 title: Hashing For Dummies
 categories : posts
 tags: [Hashing, Programming]
-date-string: JUNE 06, 2019
+date-string: JUNE 24, 2019
 ---
 
 ## มาจะกล่าวบทไป 
