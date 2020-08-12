@@ -1,11 +1,3 @@
----
-layout: post
-title: Bisection Method
-categories : posts
-tags: [Mathematics, Programming, Numerical Methods]
-published: true
-date-string: AUGUST 12, 2020
----
 
 # วิธีการแบ่งครึ่งช่วง (Bisection Method)
 
