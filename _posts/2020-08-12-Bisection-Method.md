@@ -2,6 +2,7 @@
 layout: post
 title: Bisection Method
 categories : posts
+mathjax: true
 tags: [Mathematics, Programming, Numerical methods]
 published: true
 date-string: AUGUST 12,2020
