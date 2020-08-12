@@ -24,15 +24,6 @@
             <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a>
         </span>
     </center> 
-    <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({
-          tex2jax: {
-            inlineMath: [['$','$'], ['\\(','\\)']],
-            processEscapes: true
-          }
-        });
-        </script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 </head>
 
 <!-- BODY -->
@@ -70,9 +61,6 @@
             <div class="post-date">
                 {{ page.date-string }}
             </div>
-            {% if page.mathjax  %}
-            <script type="text/javascript" async src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'></script>
-            {% endif %}
         </article>
     </div>
 </body>
