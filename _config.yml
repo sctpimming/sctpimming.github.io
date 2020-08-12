@@ -18,7 +18,7 @@ sass:
 permalink: /:categories/:year-:month-:day/:title.html
 
 # Amount of post to show on home page
-paginate: 5
+paginate: 1
 
 kramdown:
  input: GFM
@@ -27,6 +27,8 @@ kramdown:
  entity_output: as_char
  toc_levels: 1..6
  enable_coderay: false
+ math_engine: true
+ 
 
 include: 
   - .htaccess
