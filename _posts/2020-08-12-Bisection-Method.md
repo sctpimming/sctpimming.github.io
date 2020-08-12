@@ -3,7 +3,7 @@ layout: post
 title: Bisection Method
 categories : posts
 tags: [Mathematics, Programming, Numerical methods]
-published: false
+published: true
 date-string: AUGUST 12,2020
 ---
 
