@@ -121,7 +121,8 @@ int main(){
 }
 ```
 ### C++ Result
-
+![cpp1](/assets/bisection method/cpp-1.PNG)
+![cpp2](/assets/bisection method/cpp-2.PNG)
 ### Python Source code
 ```python
 def fval(x):
@@ -145,6 +146,8 @@ while n <= 14:
     n = n + 1
 ```
 ### Python Result
+![py1](/assets/bisection method/py-1.PNG)
+![py2](/assets/bisection method/py-2.PNG)
 
 
 ### เงื่อนไขเพิ่มเติมในการคำนวณ
