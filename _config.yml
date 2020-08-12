@@ -21,14 +21,14 @@ permalink: /:categories/:year-:month-:day/:title.html
 paginate: 1
 
 kramdown:
- input: GFM
+ input: kramdown
  auto_ids: true
  footnote_nr: 1
  entity_output: as_char
  toc_levels: 1..6
  enable_coderay: false
  math_engine: true
- 
+
 
 include: 
   - .htaccess
