@@ -5,6 +5,7 @@ categories : posts
 tags: [Mathematics, Programming, Numerical methods]
 published: true
 date-string: AUGUST 12,2020
+excerpt: true
 ---
 
 ถ้าผมชวนคุณเล่นเกมทายตัวเลขตั้งแต่ 1 ถึง 100 โดยในแต่ละครั้งที่คุณเลือกตัวเลขนั้นผมจะบอกว่าเลขที่คุณเลือกนั้น **สูงไป** หรือ **ต่ำไป** คุณจะใช้วิธีไหนในการทายตัวเลข
